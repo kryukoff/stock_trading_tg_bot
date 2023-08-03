@@ -12,6 +12,7 @@ serie	number	model	Memory	Color	Sim
 
 ... ... ... ... ... ... ... 
 
-The list of items should include all possible combinations of items
-after selecting first column, dataframe drops all the remaining items that do not include the selected value and so on.
+The list of items should include all possible combinations of items.
+
+After selecting the first column, dataframe drops all the remaining items that do not include the selected value and so on.
 
